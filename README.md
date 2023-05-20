@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borislav Dukov</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdukov" alt="bdukov" /></a> </p>
 - 🌱 I’m currently learning **JavaScript, HTML, CSS and Angular in SoftUni's internal program for complete training of software engineers.**
-
 - 📫 How to reach me **borislav.dukov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
