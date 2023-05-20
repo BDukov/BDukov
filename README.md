@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Borislav Dukov.
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning JavaScript in SoftUni's internal program for complete training of software engineers.
-- 📫 You can reach me on LinkedIn https://www.linkedin.com/in/borislav-dukov/
+- 📫 You can reach me on borislav.dukov@gmail.com
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME
 
 <!---
 BDukov/BDukov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
