@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borislav Dukov</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
-<img align="center" alt="Coding" width="800" src="https://miro.medium.com/v2/resize:fit:1000/1*316nQEhTUpmKVa1bql4q3Q.jpeg">
+<img align="center" alt="Coding" width="900" src="https://miro.medium.com/v2/resize:fit:1000/1*316nQEhTUpmKVa1bql4q3Q.jpeg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdukov" alt="bdukov" /></a> </p>
 
