@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Borislav Dukov</h1>
-<h3 align="center">A passionate frontend developer from Bulgaria</h3>
+<h3 align="center">A passionate Web Developer from Bulgaria</h3>
 <img align="center" alt="Coding" width="1000" src="https://github.com/BDukov/BDukov/assets/107854265/670bd681-83f8-4efd-9cc2-e7bac90f800e">
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, NodeJs, MongoDB, Angular and React in SoftUni's internal program for complete training of software engineers.**
+- 🌱 I’ve graduated like **JavaScript Wed Developer in SoftUni. I have expirience in JavaScript, TypeScript, HTML, CSS, NodeJs, MongoDB, Angular and React.**
 
 - 📫 How to reach me **borislav.dukov@gmail.com**
 
